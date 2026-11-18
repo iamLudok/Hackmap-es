@@ -1,0 +1,1068 @@
+{
+ "actualizado": "2026-11-18",
+ "hackathones": [
+  {
+   "id": "hackathon-bilbao",
+   "nombre": "Physical AI Hackathon Bilbao",
+   "organizador": "Bizkaia Gazteak · Ayto. de Bilbao",
+   "ciudad": "Bilbao",
+   "provincia": "Bizkaia",
+   "ccaa": "País Vasco",
+   "web": "https://hackathonbilbao.eus/home-page-eus",
+   "tematica": [
+    "robótica",
+    "IA"
+   ],
+   "duracion_h": 48,
+   "participantes": 140,
+   "ediciones": [
+    {
+     "anio": 2025,
+     "verificada": false
+    }
+   ],
+   "proxima": {
+    "inicio": "2026-11-20",
+    "fin": "2026-11-22",
+    "confirmada": true
+   },
+   "notas": "2ª edición del Hackathon LeRobot Bilbao. Premios 3.000 €."
+  },
+  {
+   "id": "hackeps",
+   "nombre": "HackEPS",
+   "organizador": "LleidaHack · Universitat de Lleida",
+   "ciudad": "Lleida",
+   "provincia": "Lleida",
+   "ccaa": "Cataluña",
+   "web": "https://hackeps.dev/",
+   "tematica": [
+    "general"
+   ],
+   "duracion_h": 24,
+   "participantes": 230,
+   "ediciones": [
+    {
+     "anio": 2017,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2018,
+     "verificada": false
+    },
+    {
+     "anio": 2019,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2020,
+     "formato": "online"
+    },
+    {
+     "anio": 2021,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2022,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "inicio": "2026-11-28",
+    "fin": "2026-11-29",
+    "confirmada": true
+   },
+   "notas": "10ª edición en 2026."
+  },
+  {
+   "id": "datamad",
+   "nombre": "DataMad",
+   "organizador": "Comunidad de Madrid · URJC · UCM",
+   "ciudad": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://eventos.urjc.es/155632/detail/datamad-2026.html",
+   "tematica": [
+    "datos abiertos",
+    "IA",
+    "datathon"
+   ],
+   "ediciones": [
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "inicio": "2026-11-05",
+    "fin": "2026-11-26",
+    "confirmada": true
+   },
+   "notas": "Datathon de 3 semanas; presentaciones finales el 26 de noviembre. Formato presencial sin confirmar."
+  },
+  {
+   "id": "hackasturias",
+   "nombre": "HackAsturIAs",
+   "organizador": "Colabora: EII Universidad de Oviedo",
+   "ciudad": "Oviedo",
+   "provincia": "Asturias",
+   "ccaa": "Asturias",
+   "web": "https://hackasturias.com/",
+   "tematica": [
+    "IA",
+    "datos"
+   ],
+   "ediciones": [],
+   "proxima": {
+    "inicio": "2027-01-30",
+    "fin": "2027-01-30",
+    "confirmada": true
+   },
+   "notas": "1ª edición."
+  },
+  {
+   "id": "barcelonahackathon",
+   "nombre": "barcelonahackathon",
+   "ciudad": "Barcelona",
+   "provincia": "Barcelona",
+   "ccaa": "Cataluña",
+   "web": "https://www.barcelonahackathon.com/es/",
+   "tematica": [
+    "general"
+   ],
+   "duracion_h": 48,
+   "ediciones": [],
+   "proxima": {
+    "inicio": "2027-02-12",
+    "fin": "2027-02-14",
+    "confirmada": true
+   },
+   "notas": "1ª edición. Más de 10.000 € en premios. Sede por anunciar."
+  },
+  {
+   "id": "hackudc",
+   "nombre": "HackUDC",
+   "organizador": "GPUL · FIC Universidade da Coruña",
+   "ciudad": "A Coruña",
+   "provincia": "A Coruña",
+   "ccaa": "Galicia",
+   "web": "https://hackudc.com/",
+   "tematica": [
+    "open source"
+   ],
+   "duracion_h": 36,
+   "participantes": 500,
+   "ediciones": [
+    {
+     "anio": 2023,
+     "verificada": false
+    },
+    {
+     "anio": 2024,
+     "verificada": false
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "inicio": "2027-02-26",
+    "fin": "2027-02-28",
+    "confirmada": true
+   },
+   "notas": "5ª edición en 2027."
+  },
+  {
+   "id": "hackupc",
+   "nombre": "HackUPC",
+   "organizador": "Hackers@UPC",
+   "ciudad": "Barcelona",
+   "provincia": "Barcelona",
+   "ccaa": "Cataluña",
+   "web": "https://hackupc.com/",
+   "tematica": [
+    "general"
+   ],
+   "duracion_h": 36,
+   "ediciones": [
+    {
+     "anio": 2016,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2017,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2018,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2019,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2020,
+     "formato": "online"
+    },
+    {
+     "anio": 2021,
+     "formato": "online"
+    },
+    {
+     "anio": 2022,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-04",
+    "confirmada": false
+   },
+   "notas": "El mayor hackathon estudiantil de España. 2020 y 2021 probablemente online."
+  },
+  {
+   "id": "spaceapps-valencia",
+   "nombre": "NASA Space Apps Valencia",
+   "organizador": "Space Apps Valencia · Fundació Scito",
+   "ciudad": "València",
+   "provincia": "Valencia",
+   "ccaa": "Comunidad Valenciana",
+   "web": "https://www.spaceappsvalencia.es/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "duracion_h": 48,
+   "participantes": 250,
+   "ediciones": [
+    {
+     "anio": 2014,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2015,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2016,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2017,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2018,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2019,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2022,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Sede local del NASA Space Apps Challenge. Sin ediciones en 2020-2021."
+  },
+  {
+   "id": "spaceapps-sevilla",
+   "nombre": "NASA Space Apps Sevilla",
+   "organizador": "Andalucía Emprende",
+   "ciudad": "Sevilla",
+   "provincia": "Sevilla",
+   "ccaa": "Andalucía",
+   "web": "https://espacial.sevilla.org/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "duracion_h": 48,
+   "ediciones": [
+    {
+     "anio": 2024,
+     "verificada": false
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   }
+  },
+  {
+   "id": "spaceapps-zaragoza",
+   "nombre": "NASA Space Apps Zaragoza",
+   "organizador": "EINA Universidad de Zaragoza",
+   "ciudad": "Zaragoza",
+   "provincia": "Zaragoza",
+   "ccaa": "Aragón",
+   "web": "https://www.spaceappschallenge.org/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "duracion_h": 48,
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   }
+  },
+  {
+   "id": "spaceapps-murcia",
+   "nombre": "NASA Space Apps Murcia",
+   "organizador": "UCAM HiTech",
+   "ciudad": "Murcia",
+   "provincia": "Murcia",
+   "ccaa": "Murcia",
+   "web": "https://www.spaceappschallenge.org/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "ediciones": [
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "spaceapps-leon",
+   "nombre": "NASA Space Apps León",
+   "ciudad": "León",
+   "provincia": "León",
+   "ccaa": "Castilla y León",
+   "web": "https://www.spaceappschallenge.org/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "ediciones": [
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "spaceapps-barcelona",
+   "nombre": "NASA Space Apps Barcelona",
+   "organizador": "Fundación Telefónica · IEEC",
+   "ciudad": "Barcelona",
+   "provincia": "Barcelona",
+   "ccaa": "Cataluña",
+   "web": "https://www.spaceappschallenge.org/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "ediciones": [
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "datathon-fme",
+   "nombre": "Datathon FME",
+   "organizador": "Facultat de Matemàtiques i Estadística UPC",
+   "ciudad": "Barcelona",
+   "provincia": "Barcelona",
+   "ccaa": "Cataluña",
+   "web": "https://datathon.netlify.app",
+   "tematica": [
+    "datos",
+    "IA"
+   ],
+   "ediciones": [
+    {
+     "anio": 2021,
+     "verificada": false
+    },
+    {
+     "anio": 2022,
+     "verificada": false
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "verificada": false
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-11",
+    "confirmada": false
+   }
+  },
+  {
+   "id": "bitsxlamarato",
+   "nombre": "bitsxlaMarató",
+   "organizador": "FIB UPC · Hackers@UPC · BSC",
+   "ciudad": "Barcelona",
+   "provincia": "Barcelona",
+   "ccaa": "Cataluña",
+   "web": "https://www.fib.upc.edu/",
+   "tematica": [
+    "salud",
+    "impacto social"
+   ],
+   "ediciones": [
+    {
+     "anio": 2019,
+     "verificada": false
+    },
+    {
+     "anio": 2020,
+     "verificada": false
+    },
+    {
+     "anio": 2021,
+     "verificada": false
+    },
+    {
+     "anio": 2022,
+     "verificada": false
+    },
+    {
+     "anio": 2023,
+     "verificada": false
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2026-12",
+    "confirmada": false
+   },
+   "notas": "Ligado a La Marató de TV3."
+  },
+  {
+   "id": "hackspain",
+   "nombre": "HackSpain",
+   "organizador": "UPM ETSIT",
+   "ciudad": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://hackspain.com/",
+   "tematica": [
+    "startups"
+   ],
+   "duracion_h": 36,
+   "participantes": 250,
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-09",
+    "confirmada": false
+   },
+   "notas": "Para menores de 30 años. Edición 2027 anunciada sin fecha."
+  },
+  {
+   "id": "eurichallenge",
+   "nombre": "EuriChallenge",
+   "organizador": "ETSIT UPM",
+   "ciudad": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://hackathonspain.com/calendario/eurichallenge/",
+   "tematica": [
+    "ingeniería"
+   ],
+   "ediciones": [
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-11",
+    "confirmada": false
+   },
+   "notas": "Antes EESTech Challenge."
+  },
+  {
+   "id": "hackathon-salud",
+   "nombre": "Hackathon Salud",
+   "organizador": "COM Salud · #SaludsinBulos",
+   "ciudad": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://hackathonspain.com/calendario/",
+   "tematica": [
+    "salud",
+    "IA"
+   ],
+   "ediciones": [
+    {
+     "anio": 2016,
+     "verificada": false
+    },
+    {
+     "anio": 2017,
+     "verificada": false
+    },
+    {
+     "anio": 2018,
+     "verificada": false
+    },
+    {
+     "anio": 2019,
+     "verificada": false
+    },
+    {
+     "anio": 2020,
+     "verificada": false
+    },
+    {
+     "anio": 2021,
+     "verificada": false
+    },
+    {
+     "anio": 2022,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2026-12",
+    "confirmada": false
+   },
+   "notas": "10ª edición en 2025."
+  },
+  {
+   "id": "hsil-madrid",
+   "nombre": "HSIL Hackathon Madrid",
+   "organizador": "Harvard HSIL (sede local)",
+   "ciudad": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://hackathonspain.com/calendario/hsil-hackathon-madrid/",
+   "tematica": [
+    "salud"
+   ],
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-04",
+    "confirmada": false
+   }
+  },
+  {
+   "id": "icai-smart-industry",
+   "nombre": "Hackathon for Smart Industry",
+   "organizador": "Comillas ICAI",
+   "ciudad": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://www.comillas.edu/",
+   "tematica": [
+    "industria 4.0",
+    "IA"
+   ],
+   "ediciones": [
+    {
+     "anio": 2018,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2019,
+     "verificada": false
+    },
+    {
+     "anio": 2020,
+     "formato": "online"
+    },
+    {
+     "anio": 2021,
+     "formato": "online"
+    },
+    {
+     "anio": 2022,
+     "verificada": false
+    },
+    {
+     "anio": 2023,
+     "verificada": false
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "odiseia4good",
+   "nombre": "OdiseIA4Good Hackathon",
+   "ciudad": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://hackathonspain.com/calendario/odiseia4good-hackathon/",
+   "tematica": [
+    "IA",
+    "impacto social"
+   ],
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "hack2progress",
+   "nombre": "Hack2Progress",
+   "organizador": "CIC · Universidad de Cantabria",
+   "ciudad": "Santander",
+   "provincia": "Cantabria",
+   "ccaa": "Cantabria",
+   "web": "https://www.hack2progress.com",
+   "tematica": [
+    "general",
+    "movilidad"
+   ],
+   "ediciones": [
+    {
+     "anio": 2015,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2016,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2017,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2018,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "hack4edu",
+   "nombre": "#Hack4edu",
+   "organizador": "ProFuturo · UPSA",
+   "ciudad": "Salamanca",
+   "provincia": "Salamanca",
+   "ccaa": "Castilla y León",
+   "web": "https://hack4edu.org",
+   "tematica": [
+    "educación",
+    "IA"
+   ],
+   "ediciones": [
+    {
+     "anio": 2020,
+     "verificada": false
+    },
+    {
+     "anio": 2021,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2022,
+     "verificada": false
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ],
+   "notas": "Formato híbrido."
+  },
+  {
+   "id": "impacthon",
+   "nombre": "Impacthon",
+   "organizador": "ETSE USC",
+   "ciudad": "Santiago de Compostela",
+   "provincia": "A Coruña",
+   "ccaa": "Galicia",
+   "web": "https://sessionize.com/impact-thon",
+   "tematica": [
+    "IA",
+    "impacto social"
+   ],
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "datathon-justicia",
+   "nombre": "DATAthon Justicia",
+   "organizador": "Ministerio de Justicia · UDC",
+   "ciudad": "A Coruña",
+   "provincia": "A Coruña",
+   "ccaa": "Galicia",
+   "web": "https://hackathonspain.com/calendario/datathon-justicia/",
+   "tematica": [
+    "datos",
+    "justicia"
+   ],
+   "participantes": 200,
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "malackathon",
+   "nombre": "Malackathon",
+   "organizador": "ETSI Informática UMA",
+   "ciudad": "Málaga",
+   "provincia": "Málaga",
+   "ccaa": "Andalucía",
+   "web": "https://www.uma.es/etsi-informatica/",
+   "tematica": [
+    "general"
+   ],
+   "ediciones": [
+    {
+     "anio": 2022,
+     "verificada": false
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "lactalis-ugr",
+   "nombre": "Hackathon Lactalis Puleva-UGR",
+   "organizador": "Incubadora de Talento UGR",
+   "ciudad": "Granada",
+   "provincia": "Granada",
+   "ccaa": "Andalucía",
+   "web": "https://incubadoradetalento.es/",
+   "tematica": [
+    "alimentación",
+    "innovación"
+   ],
+   "ediciones": [
+    {
+     "anio": 2023,
+     "verificada": false
+    },
+    {
+     "anio": 2024,
+     "verificada": false
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "verificada": false
+    }
+   ]
+  },
+  {
+   "id": "the-wave",
+   "nombre": "The Wave Hackathon",
+   "organizador": "Etopia · Ayto. de Zaragoza",
+   "ciudad": "Zaragoza",
+   "provincia": "Zaragoza",
+   "ccaa": "Aragón",
+   "web": "https://www.zaragoza.es/sede/servicio/cultura/evento/307192",
+   "tematica": [
+    "IA"
+   ],
+   "participantes": 500,
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "valenciaport",
+   "nombre": "Valenciaport Hackathon",
+   "organizador": "Fundación Valenciaport",
+   "ciudad": "València",
+   "provincia": "Valencia",
+   "ccaa": "Comunidad Valenciana",
+   "web": "https://www.fundacionvalenciaport.com/",
+   "tematica": [
+    "logística",
+    "puertos"
+   ],
+   "ediciones": [
+    {
+     "anio": 2021,
+     "verificada": false
+    },
+    {
+     "anio": 2022,
+     "verificada": false
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-06",
+    "confirmada": false
+   }
+  },
+  {
+   "id": "robotekin",
+   "nombre": "Robotekin Hackathon LeRobot",
+   "organizador": "EIVG UPV/EHU",
+   "ciudad": "Vitoria-Gasteiz",
+   "provincia": "Álava",
+   "ccaa": "País Vasco",
+   "web": "https://www.ehu.eus/en/web/vitoria-gasteizko-ingeniaritza-eskola/-/hackaton",
+   "tematica": [
+    "robótica"
+   ],
+   "duracion_h": 48,
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "gipuzkoa-ai",
+   "nombre": "Gipuzkoa AI Hackathon",
+   "organizador": "EIG UPV/EHU",
+   "ciudad": "Donostia-San Sebastián",
+   "provincia": "Gipuzkoa",
+   "ccaa": "País Vasco",
+   "web": "https://www.ehu.eus/es/web/gipuzkoako-ingeniaritza-eskola/-/gipuzkoa-ai-hackathon-2026",
+   "tematica": [
+    "IA"
+   ],
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "mobbeel",
+   "nombre": "Mobbeel Innovation Challenge",
+   "organizador": "Mobbeel",
+   "ciudad": "Cáceres",
+   "provincia": "Cáceres",
+   "ccaa": "Extremadura",
+   "web": "https://www.mobbeel.com/en/innovation-challenge-hackaton/",
+   "tematica": [
+    "IA"
+   ],
+   "ediciones": [
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   }
+  },
+  {
+   "id": "ecodiseno-navarra",
+   "nombre": "Hackathon de Ecodiseño Electrónico",
+   "organizador": "OREKAN · UPNA",
+   "ciudad": "Pamplona",
+   "provincia": "Navarra",
+   "ccaa": "Navarra",
+   "web": "https://www.unavarra.es/",
+   "tematica": [
+    "ecodiseño",
+    "electrónica"
+   ],
+   "participantes": 140,
+   "ediciones": [
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    }
+   ]
+  },
+  {
+   "id": "ecodiseno-canarias",
+   "nombre": "Hackathon Ecodiseño y Economía Circular",
+   "organizador": "Gobierno de Canarias",
+   "ciudad": "Santa Cruz de Tenerife",
+   "provincia": "Santa Cruz de Tenerife",
+   "ccaa": "Canarias",
+   "web": "https://www3.gobiernodecanarias.org/",
+   "tematica": [
+    "economía circular"
+   ],
+   "ediciones": [
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "notas": "También sede en Gran Canaria."
+  }
+ ]
+}
