@@ -72,7 +72,7 @@ function renderStats() {
   const cities = new Set(upcoming.map((h) => h.ciudad));
   const longest = d3.max(DATA, (h) => h.streak) || 0;
   $("#stats").innerHTML = [
-    [upcoming.length, "hackathones en los próximos 12 meses"],
+    [upcoming.length, `hackathones en los próximos 12 meses · ${upcoming.filter((h) => h.next.exact).length} con fecha confirmada`],
     [`${regions.size}/${ALL_CCAA.length}`, "comunidades con alguno"],
     [cities.size, "ciudades"],
     [longest, "años de la racha activa más larga"],
@@ -135,7 +135,7 @@ function renderList() {
       (!n.exact ? `<span class="tag warn">fecha estimada</span>` : "");
     const streak = h.streak > 1 ? `<div class="streak"><b>${h.streak}</b>años seguidos</div>`
       : `<div class="streak"><b>${h.total + 1}ª</b>edición</div>`;
-    return `${header}<article class="event">${dateBox}<div><h4><a href="${esc(h.web)}" target="_blank" rel="noopener">${esc(h.nombre)}</a></h4><div class="meta">${meta}</div><div class="tags">${tags}</div></div>${streak}</article>`;
+    return `${header}<article class="event">${dateBox}<div><h4><a href="${esc(h.web)}" target="_blank" rel="noopener">${esc(h.nombre)}</a></h4><div class="meta">${meta}</div>${h.notas ? `<p class="note">${esc(h.notas)}</p>` : ""}<div class="tags">${tags}</div></div>${streak}</article>`;
   }).join("");
 }
 

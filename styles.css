@@ -180,6 +180,7 @@ h3 { font-size: .72rem; font-weight: 600; letter-spacing: .12em; text-transform:
 .event h4 { font-size: 1.125rem; font-weight: 650; letter-spacing: -.01em; margin-bottom: 4px; }
 .event h4 a:hover { color: var(--accent); }
 .meta { display: flex; flex-wrap: wrap; gap: 2px 14px; color: var(--muted); font-size: .9rem; }
+.event .note { margin-top: 8px; color: var(--muted); font-size: .875rem; line-height: 1.5; max-width: 62ch; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
 .tag { padding: 3px 9px; border-radius: var(--radius); background: var(--surface-2); color: var(--fg); font-size: .78rem; font-weight: 500; white-space: nowrap; }
 .tag.warn { background: none; border: 1px dashed var(--line-strong); color: var(--faint); }
