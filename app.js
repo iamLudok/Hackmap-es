@@ -4,7 +4,6 @@ const CCAA_ATLAS = {
   "Andalucía": "Andalucía",
   "Aragón": "Aragón",
   "Principado de Asturias": "Asturias",
-  "Illes Balears": "Baleares",
   "Cantabria": "Cantabria",
   "Castilla y León": "Castilla y León",
   "Castilla-La Mancha": "Castilla-La Mancha",
@@ -162,7 +161,7 @@ async function setupMap() {
   const topo = await fetch("data/spain-ccaa.json").then((r) => r.json());
   const fc = topojson.feature(topo, topo.objects.autonomous_regions);
   fc.features = fc.features.filter((f) => CCAA_ATLAS[f.properties.name]);
-  // Península, Baleares, Ceuta y Melilla (sin Canarias)
+  // Península, Ceuta y Melilla (sin Canarias ni Baleares)
   const W = 800, H = 660;
   const projection = d3.geoConicConformal().parallels([36, 43]).rotate([3.5, 0]).fitExtent([[4, 4], [W - 4, H - 4]], fc);
   const path = d3.geoPath(projection);
@@ -266,7 +265,7 @@ function renderTimeline() {
       if (!e && !nextY) return `<span class="cell" title="${y}: sin edición"></span>`;
       if (nextY || isFutureEdition(e)) return `<span class="cell future" title="${y}: próxima edición"></span>`;
       const cls = e.verificada === false ? "unverified" : e.formato === "online" ? "online" : "on";
-      const label = e.verificada === false ? "sin verificar" : e.formato === "online" ? "online" : "presencial";
+      const label = e.verificada === false ? "sin verificar" : e.formato === "online" ? "online" : e.formato === "presencial" ? "presencial" : "edición celebrada";
       return `<span class="cell ${cls}" title="${y}: ${label}"></span>`;
     }).join("");
   }

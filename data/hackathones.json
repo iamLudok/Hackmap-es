@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-18",
+ "actualizado": "2026-11-20",
  "hackathones": [
   {
-   "id": "hackathon-bilbao",
-   "nombre": "Physical AI Hackathon Bilbao",
-   "organizador": "Bizkaia Gazteak · Ayto. de Bilbao",
+   "id": "lerobot-bilbao",
+   "nombre": "Hackathon LeRobot Bilbao",
+   "organizador": "Bizkaia Gazteak · Diputación de Bizkaia · Ayto. de Bilbao",
    "ciudad": "Bilbao",
    "provincia": "Bizkaia",
    "ccaa": "País Vasco",
@@ -18,7 +18,7 @@
    "ediciones": [
     {
      "anio": 2025,
-     "verificada": false
+     "formato": "presencial"
     }
    ],
    "proxima": {
@@ -26,7 +26,7 @@
     "fin": "2026-11-22",
     "confirmada": true
    },
-   "notas": "2ª edición del Hackathon LeRobot Bilbao. Premios 3.000 €."
+   "notas": "2ª edición en 2026. Premios 3.000 €."
   },
   {
    "id": "hackeps",
@@ -48,15 +48,14 @@
     },
     {
      "anio": 2018,
-     "verificada": false
+     "formato": "presencial"
     },
     {
      "anio": 2019,
      "formato": "presencial"
     },
     {
-     "anio": 2020,
-     "formato": "online"
+     "anio": 2020
     },
     {
      "anio": 2021,
@@ -87,35 +86,8 @@
    "notas": "10ª edición en 2026."
   },
   {
-   "id": "datamad",
-   "nombre": "DataMad",
-   "organizador": "Comunidad de Madrid · URJC · UCM",
-   "ciudad": "Madrid",
-   "provincia": "Madrid",
-   "ccaa": "Madrid",
-   "web": "https://eventos.urjc.es/155632/detail/datamad-2026.html",
-   "tematica": [
-    "datos abiertos",
-    "IA",
-    "datathon"
-   ],
-   "ediciones": [
-    {
-     "anio": 2024,
-     "formato": "presencial"
-    }
-   ],
-   "proxima": {
-    "inicio": "2026-11-05",
-    "fin": "2026-11-26",
-    "confirmada": true
-   },
-   "notas": "Datathon de 3 semanas; presentaciones finales el 26 de noviembre. Formato presencial sin confirmar."
-  },
-  {
    "id": "hackasturias",
    "nombre": "HackAsturIAs",
-   "organizador": "Colabora: EII Universidad de Oviedo",
    "ciudad": "Oviedo",
    "provincia": "Asturias",
    "ccaa": "Asturias",
@@ -130,7 +102,7 @@
     "fin": "2027-01-30",
     "confirmada": true
    },
-   "notas": "1ª edición."
+   "notas": "1ª edición. Un día, de mañana a noche. Gratuito, equipos de 4, mayores de 18. Sede en Oviedo por confirmar. Colabora la EII de la Universidad de Oviedo. Plazas aún sin cerrar (preinscripción abierta)."
   },
   {
    "id": "barcelonahackathon",
@@ -149,12 +121,12 @@
     "fin": "2027-02-14",
     "confirmada": true
    },
-   "notas": "1ª edición. Más de 10.000 € en premios. Sede por anunciar."
+   "notas": "1ª edición. De viernes 18:00 a domingo 18:00. Gratuito, abierto a principiantes. Más de 10.000 € en premios. Sede en Barcelona por concretar; la temática se anuncia en la apertura."
   },
   {
    "id": "hackudc",
    "nombre": "HackUDC",
-   "organizador": "GPUL · FIC Universidade da Coruña",
+   "organizador": "GPUL (asociación de estudiantes)",
    "ciudad": "A Coruña",
    "provincia": "A Coruña",
    "ccaa": "Galicia",
@@ -167,11 +139,11 @@
    "ediciones": [
     {
      "anio": 2023,
-     "verificada": false
+     "nota": "deducida: 2027 es la 5ª edición"
     },
     {
      "anio": 2024,
-     "verificada": false
+     "nota": "deducida: 2027 es la 5ª edición"
     },
     {
      "anio": 2025,
@@ -187,12 +159,12 @@
     "fin": "2027-02-28",
     "confirmada": true
    },
-   "notas": "5ª edición en 2027."
+   "notas": "5ª edición en 2027, en la Facultad de Informática (campus de Elviña). Gratuito, equipos de hasta 4, para estudiantes y recién graduados. Proyectos con licencia libre."
   },
   {
    "id": "hackupc",
    "nombre": "HackUPC",
-   "organizador": "Hackers@UPC",
+   "organizador": "Hackers@UPC (asociación de estudiantes)",
    "ciudad": "Barcelona",
    "provincia": "Barcelona",
    "ccaa": "Cataluña",
@@ -201,6 +173,7 @@
     "general"
    ],
    "duracion_h": 36,
+   "participantes": 750,
    "ediciones": [
     {
      "anio": 2016,
@@ -220,7 +193,7 @@
     },
     {
      "anio": 2020,
-     "formato": "online"
+     "verificada": false
     },
     {
      "anio": 2021,
@@ -251,12 +224,12 @@
     "mes_estimado": "2027-04",
     "confirmada": false
    },
-   "notas": "El mayor hackathon estudiantil de España. 2020 y 2021 probablemente online."
+   "notas": "Campus Nord de la UPC (FIB y ETSETB). Gratuito, equipos de hasta 4, desde 14 años. Ayuda parcial para el viaje. En 2016 y 2017 hubo dos ediciones por año; 2021 fue online."
   },
   {
    "id": "spaceapps-valencia",
    "nombre": "NASA Space Apps Valencia",
-   "organizador": "Space Apps Valencia · Fundació Scito",
+   "organizador": "Equipo Space Apps Valencia · Fundació Scito",
    "ciudad": "València",
    "provincia": "Valencia",
    "ccaa": "Comunidad Valenciana",
@@ -317,12 +290,12 @@
     "mes_estimado": "2027-10",
     "confirmada": false
    },
-   "notas": "Sede local del NASA Space Apps Challenge. Sin ediciones en 2020-2021."
+   "notas": "Sede local del NASA Space Apps Challenge en la Casa del Alumno de la UPV. 11ª edición en 2026 (13-15 nov). Gratuito, equipos de 4 a 6, todas las edades. Premio: visita al INTA y nominación a la fase global de la NASA."
   },
   {
    "id": "spaceapps-sevilla",
    "nombre": "NASA Space Apps Sevilla",
-   "organizador": "Andalucía Emprende",
+   "organizador": "Andalucía Emprende · Agencia Espacial Española",
    "ciudad": "Sevilla",
    "provincia": "Sevilla",
    "ccaa": "Andalucía",
@@ -332,10 +305,15 @@
     "datos abiertos"
    ],
    "duracion_h": 48,
+   "participantes": 100,
    "ediciones": [
     {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
      "anio": 2024,
-     "verificada": false
+     "formato": "presencial"
     },
     {
      "anio": 2025,
@@ -349,108 +327,57 @@
    "proxima": {
     "mes_estimado": "2027-10",
     "confirmada": false
-   }
+   },
+   "notas": "Sede local del NASA Space Apps Challenge en la sede de la Agencia Espacial Española. 2026: 13-15 nov. Primera edición conocida: 2023 (2025 fue la 3ª)."
   },
   {
    "id": "spaceapps-zaragoza",
    "nombre": "NASA Space Apps Zaragoza",
-   "organizador": "EINA Universidad de Zaragoza",
+   "organizador": "Comunidad Space Apps Zaragoza · EINA Universidad de Zaragoza",
    "ciudad": "Zaragoza",
    "provincia": "Zaragoza",
    "ccaa": "Aragón",
-   "web": "https://www.spaceappschallenge.org/",
+   "web": "https://www.spaceappschallenge.org/2026/local-events/zaragoza/",
    "tematica": [
     "espacio",
     "datos abiertos"
    ],
-   "duracion_h": 48,
+   "participantes": 172,
    "ediciones": [
     {
-     "anio": 2026,
+     "anio": 2014,
      "formato": "presencial"
-    }
-   ],
-   "proxima": {
-    "mes_estimado": "2027-10",
-    "confirmada": false
-   }
-  },
-  {
-   "id": "spaceapps-murcia",
-   "nombre": "NASA Space Apps Murcia",
-   "organizador": "UCAM HiTech",
-   "ciudad": "Murcia",
-   "provincia": "Murcia",
-   "ccaa": "Murcia",
-   "web": "https://www.spaceappschallenge.org/",
-   "tematica": [
-    "espacio",
-    "datos abiertos"
-   ],
-   "ediciones": [
-    {
-     "anio": 2025,
-     "formato": "presencial"
-    }
-   ]
-  },
-  {
-   "id": "spaceapps-leon",
-   "nombre": "NASA Space Apps León",
-   "ciudad": "León",
-   "provincia": "León",
-   "ccaa": "Castilla y León",
-   "web": "https://www.spaceappschallenge.org/",
-   "tematica": [
-    "espacio",
-    "datos abiertos"
-   ],
-   "ediciones": [
-    {
-     "anio": 2024,
-     "formato": "presencial"
-    }
-   ]
-  },
-  {
-   "id": "spaceapps-barcelona",
-   "nombre": "NASA Space Apps Barcelona",
-   "organizador": "Fundación Telefónica · IEEC",
-   "ciudad": "Barcelona",
-   "provincia": "Barcelona",
-   "ccaa": "Cataluña",
-   "web": "https://www.spaceappschallenge.org/",
-   "tematica": [
-    "espacio",
-    "datos abiertos"
-   ],
-   "ediciones": [
-    {
-     "anio": 2025,
-     "formato": "presencial"
-    }
-   ]
-  },
-  {
-   "id": "datathon-fme",
-   "nombre": "Datathon FME",
-   "organizador": "Facultat de Matemàtiques i Estadística UPC",
-   "ciudad": "Barcelona",
-   "provincia": "Barcelona",
-   "ccaa": "Cataluña",
-   "web": "https://datathon.netlify.app",
-   "tematica": [
-    "datos",
-    "IA"
-   ],
-   "ediciones": [
-    {
-     "anio": 2021,
-     "verificada": false
     },
     {
-     "anio": 2022,
-     "verificada": false
+     "anio": 2015,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2016,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2017,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2018,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2019,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2020,
+     "formato": "online"
+    },
+    {
+     "anio": 2021,
+     "formato": "online"
+    },
+    {
+     "anio": 2022
     },
     {
      "anio": 2023,
@@ -458,7 +385,160 @@
     },
     {
      "anio": 2024,
-     "verificada": false
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Sede local del NASA Space Apps Challenge. 13ª edición consecutiva en 2026, en el edificio Betancourt de la EINA (Campus Río Ebro). De 2014 a 2024 se hizo en Etopia. Gratuito, equipos de 2 a 6."
+  },
+  {
+   "id": "spaceapps-murcia",
+   "nombre": "NASA Space Apps Murcia",
+   "ciudad": "Murcia",
+   "provincia": "Murcia",
+   "ccaa": "Murcia",
+   "web": "https://www.spaceappschallenge.org/2026/local-events/murcia/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "participantes": 142,
+   "ediciones": [
+    {
+     "anio": 2016,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2017,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2019,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2020,
+     "formato": "online"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Sede local del NASA Space Apps Challenge. 2026 en el Centro Cultural Puertas de Castilla; 2025 en UCAM HiTech (con SpaceAPPS Spain). Ediciones anteriores en el Parque Científico (2016-2017) y everis (2019)."
+  },
+  {
+   "id": "spaceapps-barcelona",
+   "nombre": "NASA Space Apps Barcelona",
+   "organizador": "Space & Events (Space Apps Spain) · IEEC · Barcelona Activa",
+   "ciudad": "Barcelona",
+   "provincia": "Barcelona",
+   "ccaa": "Cataluña",
+   "web": "https://www.spaceappschallenge.org/2026/local-events/barcelona/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "participantes": 139,
+   "ediciones": [
+    {
+     "anio": 2013,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2016,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2017
+    },
+    {
+     "anio": 2018,
+     "formato": "online"
+    },
+    {
+     "anio": 2019,
+     "formato": "online"
+    },
+    {
+     "anio": 2020,
+     "formato": "online"
+    },
+    {
+     "anio": 2022,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Sede local del NASA Space Apps Challenge. 2023-2025 en 42 Barcelona. 2026: 13-15 nov, 139 participantes en 34 equipos. 2018-2020 fueron ediciones online muy pequeñas."
+  },
+  {
+   "id": "datathon-fme",
+   "nombre": "Datathon FME",
+   "organizador": "Associació d'Estudiants de Dades (AED) · FME UPC",
+   "ciudad": "Barcelona",
+   "provincia": "Barcelona",
+   "ccaa": "Cataluña",
+   "web": "https://www.datathon.cat/",
+   "tematica": [
+    "datos",
+    "IA"
+   ],
+   "duracion_h": 48,
+   "participantes": 400,
+   "ediciones": [
+    {
+     "anio": 2021,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2022,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2023
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
     },
     {
      "anio": 2025,
@@ -472,40 +552,41 @@
    "proxima": {
     "mes_estimado": "2027-11",
     "confirmada": false
-   }
+   },
+   "notas": "En la Facultat de Matemàtiques i Estadística (UPC). 6ª edición en 2026 (14-15 nov). Gratuito, más de 2.000 € en premios."
   },
   {
    "id": "bitsxlamarato",
    "nombre": "bitsxlaMarató",
-   "organizador": "FIB UPC · Hackers@UPC · BSC",
+   "organizador": "FIB (UPC), Hackers@UPC y Barcelona Supercomputing Center (BSC), con un instituto biomédico distinto cada año (IDIBELL en 2026)",
    "ciudad": "Barcelona",
    "provincia": "Barcelona",
    "ccaa": "Cataluña",
-   "web": "https://www.fib.upc.edu/",
+   "web": "https://www.fib.upc.edu/ca/la-marato",
    "tematica": [
     "salud",
-    "impacto social"
+    "impacto social",
+    "solidario"
    ],
+   "duracion_h": 41,
+   "participantes": 187,
    "ediciones": [
     {
      "anio": 2019,
-     "verificada": false
+     "formato": "presencial"
     },
     {
      "anio": 2020,
-     "verificada": false
+     "formato": "online"
     },
     {
-     "anio": 2021,
-     "verificada": false
+     "anio": 2021
     },
     {
-     "anio": 2022,
-     "verificada": false
+     "anio": 2022
     },
     {
-     "anio": 2023,
-     "verificada": false
+     "anio": 2023
     },
     {
      "anio": 2024,
@@ -514,24 +595,30 @@
     {
      "anio": 2025,
      "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
     }
    ],
    "proxima": {
-    "mes_estimado": "2026-12",
-    "confirmada": false
+    "inicio": "2026-12-11",
+    "fin": "2026-12-13",
+    "confirmada": true
    },
-   "notas": "Ligado a La Marató de TV3."
+   "notas": "Hackathon solidario ligado a La Marató de 3Cat (tema distinto cada año). Campus Nord UPC. Edición 2025 (7ª, cáncer): 187 hackers, 48 proyectos. Edición 2026 (8ª): enfermedades neurodegenerativas y neuromusculares. Según la FAQ: hacking de viernes 19:00 a domingo 12:00, equipos de 1 a 4, gratuito (donación sugerida de 5 €). 2020 virtual por la COVID; 2021 presencial y online."
   },
   {
    "id": "hackspain",
    "nombre": "HackSpain",
-   "organizador": "UPM ETSIT",
+   "organizador": "HackSpain (Leonardo Ollero y Samuel Cordero Sánchez), con The Exponential Fellowship",
    "ciudad": "Madrid",
    "provincia": "Madrid",
    "ccaa": "Madrid",
    "web": "https://hackspain.com/",
    "tematica": [
-    "startups"
+    "startups",
+    "IA"
    ],
    "duracion_h": 36,
    "participantes": 250,
@@ -545,27 +632,28 @@
     "mes_estimado": "2027-09",
     "confirmada": false
    },
-   "notas": "Para menores de 30 años. Edición 2027 anunciada sin fecha."
+   "notas": "Primera edición del 18 al 20 de septiembre de 2026 en la ETSIT UPM. Para menores de 30 años, cinco tracks de startups y premio de 5.000 €. Edición 2027 anunciada sin fecha (lista de aviso por email). La web no tiene sección FAQ."
   },
   {
    "id": "eurichallenge",
-   "nombre": "EuriChallenge",
-   "organizador": "ETSIT UPM",
+   "nombre": "EURIChallenge",
+   "organizador": "Eurielec y EESTEC LC Madrid (ETSIT UPM)",
    "ciudad": "Madrid",
    "provincia": "Madrid",
    "ccaa": "Madrid",
-   "web": "https://hackathonspain.com/calendario/eurichallenge/",
+   "web": "https://eurielec.etsit.upm.es/eurichallenge",
    "tematica": [
-    "ingeniería"
+    "IA",
+    "visión artificial",
+    "salud"
    ],
+   "duracion_h": 48,
    "ediciones": [
     {
-     "anio": 2024,
-     "formato": "presencial"
+     "anio": 2024
     },
     {
-     "anio": 2025,
-     "formato": "presencial"
+     "anio": 2025
     },
     {
      "anio": 2026,
@@ -576,78 +664,19 @@
     "mes_estimado": "2027-11",
     "confirmada": false
    },
-   "notas": "Antes EESTech Challenge."
-  },
-  {
-   "id": "hackathon-salud",
-   "nombre": "Hackathon Salud",
-   "organizador": "COM Salud · #SaludsinBulos",
-   "ciudad": "Madrid",
-   "provincia": "Madrid",
-   "ccaa": "Madrid",
-   "web": "https://hackathonspain.com/calendario/",
-   "tematica": [
-    "salud",
-    "IA"
-   ],
-   "ediciones": [
-    {
-     "anio": 2016,
-     "verificada": false
-    },
-    {
-     "anio": 2017,
-     "verificada": false
-    },
-    {
-     "anio": 2018,
-     "verificada": false
-    },
-    {
-     "anio": 2019,
-     "verificada": false
-    },
-    {
-     "anio": 2020,
-     "verificada": false
-    },
-    {
-     "anio": 2021,
-     "verificada": false
-    },
-    {
-     "anio": 2022,
-     "formato": "presencial"
-    },
-    {
-     "anio": 2023,
-     "formato": "presencial"
-    },
-    {
-     "anio": 2024,
-     "formato": "presencial"
-    },
-    {
-     "anio": 2025,
-     "formato": "presencial"
-    }
-   ],
-   "proxima": {
-    "mes_estimado": "2026-12",
-    "confirmada": false
-   },
-   "notas": "10ª edición en 2025."
+   "notas": "Edición 2026 del 13 al 15 de noviembre en la ETSIT UPM, reto 'Gamificando la Fisioterapia con IA', equipos de 3, gratuito y más de 1.500 € en premios. Antes era la ronda local de Madrid del EESTech Challenge, que Eurielec organizó por segunda vez en el curso 2024-25."
   },
   {
    "id": "hsil-madrid",
    "nombre": "HSIL Hackathon Madrid",
-   "organizador": "Harvard HSIL (sede local)",
+   "organizador": "Universidad Complutense de Madrid y Real Colegio Complutense en Harvard (sede del Health Systems Innovation Lab de Harvard)",
    "ciudad": "Madrid",
    "provincia": "Madrid",
    "ccaa": "Madrid",
-   "web": "https://hackathonspain.com/calendario/hsil-hackathon-madrid/",
+   "web": "https://hsph.harvard.edu/research/health-systems-innovation-lab/work/hsil-hackathon-2026-building-high-value-health-systems-leveraging-ai/",
    "tematica": [
-    "salud"
+    "salud",
+    "IA"
    ],
    "ediciones": [
     {
@@ -658,85 +687,107 @@
    "proxima": {
     "mes_estimado": "2027-04",
     "confirmada": false
-   }
+   },
+   "notas": "Sede madrileña de la 7ª edición global del HSIL Hackathon: 10 y 11 de abril de 2026 (12:00-18:00) en la Biblioteca María Zambrano (UCM). El ganador pasa al programa de incubación online de Harvard. HSIL anuncia la edición global 2027 para el 16 y 17 de abril de 2027, sin confirmar aún la sede de Madrid. No consta sede en Madrid en 2025."
   },
   {
    "id": "icai-smart-industry",
    "nombre": "Hackathon for Smart Industry",
-   "organizador": "Comillas ICAI",
+   "organizador": "Cátedra de Industria Inteligente (antes Cátedra de Industria Conectada), Comillas ICAI",
    "ciudad": "Madrid",
    "provincia": "Madrid",
    "ccaa": "Madrid",
-   "web": "https://www.comillas.edu/",
+   "web": "https://www.comillas.edu/catedras-de-investigacion/catedra-de-industria-inteligente/",
    "tematica": [
     "industria 4.0",
     "IA"
    ],
+   "duracion_h": 24,
+   "participantes": 40,
    "ediciones": [
+    {
+     "anio": 2017
+    },
     {
      "anio": 2018,
      "formato": "presencial"
     },
     {
      "anio": 2019,
-     "verificada": false
+     "formato": "presencial"
     },
     {
      "anio": 2020,
      "formato": "online"
     },
     {
-     "anio": 2021,
-     "formato": "online"
+     "anio": 2021
     },
     {
      "anio": 2022,
-     "verificada": false
+     "formato": "presencial"
     },
     {
-     "anio": 2023,
-     "verificada": false
+     "anio": 2023
     },
     {
      "anio": 2024,
      "formato": "presencial"
     },
     {
-     "anio": 2025,
-     "formato": "presencial"
+     "anio": 2025
     }
-   ]
+   ],
+   "proxima": {
+    "mes_estimado": "2026-11",
+    "confirmada": false
+   },
+   "notas": "Reto real de una empresa patrono para alumnos de grado y máster (desde 2021 también otras universidades: IQS, Loyola). II ed. nov 2018 (Antolin, Comillas Collaborative Space), III nov 2019 (Mahou San Miguel, algo más de 24 h), IV 2020 online (Prosegur), V nov 2021 (Gestamp, más de 50 participantes), VI nov 2022 (Enagás), VII oct 2023 (Repsol, más de 60), VIII feb-mar 2024 (chocolate e IA generativa), IX oct 2024 (Acerinox, más de 40), X oct-nov 2025 (CAF y Kearney, 24 h). I edición (2017) deducida por numeración. XI edición 2026 no anunciada públicamente; podría haberse celebrado ya. Sin web propia ni FAQ."
   },
   {
    "id": "odiseia4good",
-   "nombre": "OdiseIA4Good Hackathon",
+   "nombre": "Hackathon Internacional OdiseIA4Good",
+   "organizador": "OdiseIA, con Google.org y Fundación Pablo VI",
    "ciudad": "Madrid",
    "provincia": "Madrid",
    "ccaa": "Madrid",
-   "web": "https://hackathonspain.com/calendario/odiseia4good-hackathon/",
+   "web": "https://www.odiseia4good.org/",
    "tematica": [
     "IA",
     "impacto social"
    ],
+   "participantes": 100,
    "ediciones": [
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
     {
      "anio": 2026,
      "formato": "presencial"
     }
-   ]
+   ],
+   "proxima": {
+    "mes_estimado": "2027-02",
+    "confirmada": false
+   },
+   "notas": "II edición del 23 al 25 de febrero de 2026 en la Fundación Pablo VI: más de 100 participantes y unos 40 equipos finalistas, IA para colectivos vulnerables. I edición del 25 al 27 de febrero de 2025 (unos 300 participantes, 30 equipos de 20 países, presidencia de honor del Rey). Hay preselección previa de proyectos. Sin edición 2027 anunciada."
   },
   {
    "id": "hack2progress",
    "nombre": "Hack2Progress",
-   "organizador": "CIC · Universidad de Cantabria",
+   "organizador": "CIC Consulting Informático, con la Universidad de Cantabria",
    "ciudad": "Santander",
    "provincia": "Cantabria",
    "ccaa": "Cantabria",
    "web": "https://www.hack2progress.com",
    "tematica": [
-    "general",
-    "movilidad"
+    "sostenibilidad",
+    "movilidad",
+    "smart city"
    ],
+   "duracion_h": 24,
+   "participantes": 75,
    "ediciones": [
     {
      "anio": 2015,
@@ -755,6 +806,10 @@
      "formato": "presencial"
     },
     {
+     "anio": 2019,
+     "formato": "presencial"
+    },
+    {
      "anio": 2024,
      "formato": "presencial"
     },
@@ -762,33 +817,104 @@
      "anio": 2025,
      "formato": "presencial"
     }
-   ]
+   ],
+   "proxima": {
+    "mes_estimado": "2027-03",
+    "confirmada": false
+   },
+   "notas": "Casa del Estudiante (Torre A), Universidad de Cantabria. Prototipo en 24 h tras formación previa; equipos de 2 a 5. I nov 2015, II nov 2016, III nov 2017, IV nov 2018 (energía en la nube), V nov 2019 (ODS), parón 2020-2023, VI 1-2 mar 2024 (IA), VII 28 feb-1 mar 2025 (movilidad sostenible, 21 equipos y 75 participantes). No se ha encontrado edición en 2026; la web sigue mostrando la VII."
   },
   {
    "id": "hack4edu",
-   "nombre": "#Hack4edu",
-   "organizador": "ProFuturo · UPSA",
+   "nombre": "#Hack4Edu",
+   "organizador": "ProFuturo (Fundación Telefónica y Fundación \"la Caixa\"), Universidad Pontificia de Salamanca (UPSA) y Red de Cátedras Telefónica",
    "ciudad": "Salamanca",
    "provincia": "Salamanca",
    "ccaa": "Castilla y León",
-   "web": "https://hack4edu.org",
+   "web": "https://profuturo.education/hack4edu/",
    "tematica": [
     "educación",
-    "IA"
+    "IA",
+    "impacto social"
    ],
+   "participantes": 650,
    "ediciones": [
     {
      "anio": 2020,
-     "verificada": false
+     "formato": "online"
     },
     {
-     "anio": 2021,
+     "anio": 2021
+    },
+    {
+     "anio": 2022
+    },
+    {
+     "anio": 2023
+    },
+    {
+     "anio": 2024
+    },
+    {
+     "anio": 2025
+    },
+    {
+     "anio": 2026
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Hackathon internacional híbrido y multisede de 5 días, con parte presencial real: en 2025 los equipos trabajaron en aulas de la UPSA (sede principal) y de otras sedes socias, además de Slack. 7ª edición del 3 al 7 nov 2026 (inauguración en el Aula Magna de la UPSA, final desde 42 Madrid; 650 jóvenes de 9 países). 2025: 27-31 oct, más de 800 participantes. 2024: 21-25 oct. 2023: 24-27 oct, 534 hackers. 1ª edición 2020 virtual. Sedes españolas 2026: UPSA, USAL y 42 Madrid."
+  },
+  {
+   "id": "impacthon",
+   "nombre": "Impacthon USC",
+   "organizador": "GDG Santiago de Compostela y estudiantes de la ETSE (USC)",
+   "ciudad": "Santiago de Compostela",
+   "provincia": "A Coruña",
+   "ccaa": "Galicia",
+   "web": "https://impacthon-web.vercel.app/",
+   "tematica": [
+    "IA",
+    "impacto social",
+    "sostenibilidad",
+    "emprendimiento"
+   ],
+   "duracion_h": 36,
+   "participantes": 140,
+   "ediciones": [
+    {
+     "anio": 2025,
      "formato": "presencial"
     },
     {
-     "anio": 2022,
-     "verificada": false
-    },
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-04",
+    "confirmada": false
+   },
+   "notas": "En la ETSE de la USC. 2025: Impact-thon de una semana (10-17 de marzo, 2 ECTS). 2026: 10-12 de abril, 36 horas, 140 participantes, 4 retos (Cátedra Camelia, Eurostars, GEM Galicia, GDG). Convalidable por 1,5-2 ECTS."
+  },
+  {
+   "id": "datathon-justicia",
+   "nombre": "DATAthon Justicia (DATAfórum Justicia)",
+   "organizador": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes (con universidad anfitriona)",
+   "ciudad": "A Coruña",
+   "provincia": "A Coruña",
+   "ccaa": "Galicia",
+   "web": "https://dataforumjusticia.es/datathon-2026/",
+   "tematica": [
+    "datos",
+    "justicia",
+    "IA"
+   ],
+   "participantes": 200,
+   "ediciones": [
     {
      "anio": 2023,
      "formato": "presencial"
@@ -800,91 +926,36 @@
     {
      "anio": 2025,
      "formato": "presencial"
-    }
-   ],
-   "notas": "Formato híbrido."
-  },
-  {
-   "id": "impacthon",
-   "nombre": "Impacthon",
-   "organizador": "ETSE USC",
-   "ciudad": "Santiago de Compostela",
-   "provincia": "A Coruña",
-   "ccaa": "Galicia",
-   "web": "https://sessionize.com/impact-thon",
-   "tematica": [
-    "IA",
-    "impacto social"
-   ],
-   "ediciones": [
+    },
     {
      "anio": 2026,
      "formato": "presencial"
     }
-   ]
-  },
-  {
-   "id": "datathon-justicia",
-   "nombre": "DATAthon Justicia",
-   "organizador": "Ministerio de Justicia · UDC",
-   "ciudad": "A Coruña",
-   "provincia": "A Coruña",
-   "ccaa": "Galicia",
-   "web": "https://hackathonspain.com/calendario/datathon-justicia/",
-   "tematica": [
-    "datos",
-    "justicia"
    ],
-   "participantes": 200,
-   "ediciones": [
-    {
-     "anio": 2026,
-     "formato": "presencial"
-    }
-   ]
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Reto universitario de 3 días dentro del DATAfórum Justicia, evento itinerante: Gijón (junio 2023, 35 participantes), Granada (noviembre 2024, 40), León (1-3 octubre 2025, coorganiza ULE) y A Coruña (21-23 octubre 2026, Palexco, con UDC; cerca de 200 estudiantes previstos). La sede de 2027 no está anunciada. El DATAfórum 2022 (Salamanca) no tuvo DATAthon."
   },
   {
    "id": "malackathon",
    "nombre": "Malackathon",
-   "organizador": "ETSI Informática UMA",
+   "organizador": "ETSI Informática, Universidad de Málaga",
    "ciudad": "Málaga",
    "provincia": "Málaga",
    "ccaa": "Andalucía",
    "web": "https://www.uma.es/etsi-informatica/",
    "tematica": [
-    "general"
+    "IA",
+    "ciberseguridad",
+    "retos de empresa"
    ],
+   "participantes": 300,
    "ediciones": [
-    {
-     "anio": 2022,
-     "verificada": false
-    },
     {
      "anio": 2024,
      "formato": "presencial"
-    }
-   ]
-  },
-  {
-   "id": "lactalis-ugr",
-   "nombre": "Hackathon Lactalis Puleva-UGR",
-   "organizador": "Incubadora de Talento UGR",
-   "ciudad": "Granada",
-   "provincia": "Granada",
-   "ccaa": "Andalucía",
-   "web": "https://incubadoradetalento.es/",
-   "tematica": [
-    "alimentación",
-    "innovación"
-   ],
-   "ediciones": [
-    {
-     "anio": 2023,
-     "verificada": false
-    },
-    {
-     "anio": 2024,
-     "verificada": false
     },
     {
      "anio": 2025,
@@ -892,49 +963,65 @@
     },
     {
      "anio": 2026,
-     "verificada": false
+     "formato": "presencial"
     }
-   ]
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Hackathon anual en la ETSI Informática de la UMA, en octubre. I edición 17-18 oct 2024 (gestión sostenible del agua, unos 200 estudiantes). II edición 17 oct 2025 (salud mental, 250 estudiantes en 65 equipos). III edición 15-16 oct 2026 (más de 300 estudiantes, retos de seis empresas). No tiene web propia."
   },
   {
    "id": "the-wave",
-   "nombre": "The Wave Hackathon",
-   "organizador": "Etopia · Ayto. de Zaragoza",
+   "nombre": "The Wave Hackathon (Hacking the Future)",
+   "organizador": "Tecnara e ITA (Instituto Tecnológico de Aragón), dentro del congreso The Wave, impulsado por Microsoft",
    "ciudad": "Zaragoza",
    "provincia": "Zaragoza",
    "ccaa": "Aragón",
-   "web": "https://www.zaragoza.es/sede/servicio/cultura/evento/307192",
+   "web": "https://waveshow.es/actividades/wave-hackathon-2026",
    "tematica": [
-    "IA"
+    "IA",
+    "retos empresariales"
    ],
    "participantes": 500,
    "ediciones": [
     {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
      "anio": 2026,
      "formato": "presencial"
     }
-   ]
+   ],
+   "proxima": {
+    "mes_estimado": "2027-04",
+    "confirmada": false
+   },
+   "notas": "Ligado al congreso The Wave. 2025: Etopia, 18-19 de marzo, más de 100 participantes. 2026: tres sedes (Teruel 25/02, Huesca 11/03, Zaragoza-Etopia 13-14/04), unos 500 participantes (260 en Zaragoza), retos de más de 20 empresas. Sin FAQ en la web; 2027 sin anunciar."
   },
   {
    "id": "valenciaport",
    "nombre": "Valenciaport Hackathon",
-   "organizador": "Fundación Valenciaport",
+   "organizador": "Opentop (hub de innovación de Valenciaport: Autoridad Portuaria de València y Fundación Valenciaport)",
    "ciudad": "València",
    "provincia": "Valencia",
    "ccaa": "Comunidad Valenciana",
-   "web": "https://www.fundacionvalenciaport.com/",
+   "web": "https://www.fundacionvalenciaport.com/en/opentop/",
    "tematica": [
     "logística",
     "puertos"
    ],
+   "participantes": 45,
    "ediciones": [
     {
-     "anio": 2021,
-     "verificada": false
+     "anio": 2020,
+     "formato": "online"
     },
     {
      "anio": 2022,
-     "verificada": false
+     "formato": "presencial"
     },
     {
      "anio": 2023,
@@ -956,56 +1043,77 @@
    "proxima": {
     "mes_estimado": "2027-06",
     "confirmada": false
-   }
+   },
+   "notas": "Sede: Edificio del Reloj del puerto. I ed. 2020 online (20-27 nov, proyecto H2020 COREALIS); II 6-8 may 2022; III 30 jun-2 jul 2023 (12 equipos); IV 5-7 jul 2024 (45 participantes); V 9-11 may 2025 (45 participantes, 9 equipos); VI 30 jun-1 jul 2026, solo para startups/pymes (9 seleccionadas) con metodología Pilot Launch. No consta edición en 2021."
   },
   {
    "id": "robotekin",
-   "nombre": "Robotekin Hackathon LeRobot",
-   "organizador": "EIVG UPV/EHU",
+   "nombre": "Hackathon LeRobot (Robotekin)",
+   "organizador": "Robotekin (ecosistema vasco de robótica y automatización)",
    "ciudad": "Vitoria-Gasteiz",
    "provincia": "Álava",
    "ccaa": "País Vasco",
    "web": "https://www.ehu.eus/en/web/vitoria-gasteizko-ingeniaritza-eskola/-/hackaton",
    "tematica": [
-    "robótica"
+    "robótica",
+    "IA"
    ],
    "duracion_h": 48,
+   "participantes": 50,
    "ediciones": [
     {
      "anio": 2026,
      "formato": "presencial"
     }
-   ]
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "1ª edición, 23-25 oct 2026 en el Robotory, Parque Tecnológico de Álava. Entrenamiento de brazos robóticos con LeRobot (Hugging Face), visión e imitation learning. 18-35 años, equipos de 2-5, gratuito; 50 plazas iniciales ampliadas por demanda. La web de inscripción (hackathon.robotekin.com) ya no responde; sin FAQ."
   },
   {
    "id": "gipuzkoa-ai",
    "nombre": "Gipuzkoa AI Hackathon",
-   "organizador": "EIG UPV/EHU",
+   "organizador": "City Science Lab @ Gipuzkoa (MUBIL y MIT Media Lab) con Tecnun, EHU, Mondragon Unibertsitatea y Deusto",
    "ciudad": "Donostia-San Sebastián",
    "provincia": "Gipuzkoa",
    "ccaa": "País Vasco",
-   "web": "https://www.ehu.eus/es/web/gipuzkoako-ingeniaritza-eskola/-/gipuzkoa-ai-hackathon-2026",
+   "web": "https://gipuzkoa-ai-hackathon.com/",
    "tematica": [
-    "IA"
+    "IA",
+    "agentes",
+    "ciudades"
    ],
+   "participantes": 200,
    "ediciones": [
     {
      "anio": 2026,
      "formato": "presencial"
     }
-   ]
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "1ª edición 2026, formato híbrido: formación online y Urban Challenge (7 sep-4 oct) y final presencial de un día el 17 oct en Donostia con 16 equipos (de 60 inscritos, más de 200 estudiantes). Premios 4.000 € en dos categorías; entrega en el Kursaal dentro del City Science Summit (4-5 nov)."
   },
   {
    "id": "mobbeel",
    "nombre": "Mobbeel Innovation Challenge",
-   "organizador": "Mobbeel",
+   "organizador": "Mobbeel (grupo Indra), con Junta de Extremadura y FUNDECYT-PCTEx",
    "ciudad": "Cáceres",
    "provincia": "Cáceres",
    "ccaa": "Extremadura",
    "web": "https://www.mobbeel.com/en/innovation-challenge-hackaton/",
    "tematica": [
-    "IA"
+    "IA",
+    "identidad digital",
+    "ciberseguridad",
+    "no-code"
    ],
+   "duracion_h": 9,
+   "participantes": 100,
    "ediciones": [
     {
      "anio": 2024,
@@ -1023,19 +1131,22 @@
    "proxima": {
     "mes_estimado": "2027-10",
     "confirmada": false
-   }
+   },
+   "notas": "Hackathon no-code de un día (9:00-18:30) en Garaje 2.0, Aldea Moret. Ediciones: 3 oct 2024, 23 oct 2025, 22 oct 2026 (3ª). La web apunta al 21/10/2027 como fecha por confirmar (4ª edición). Equipos de 5-6, gratuito, para estudiantes y personas sin empleo previo en el sector (según FAQ), 1.000 € en premios."
   },
   {
    "id": "ecodiseno-navarra",
-   "nombre": "Hackathon de Ecodiseño Electrónico",
-   "organizador": "OREKAN · UPNA",
+   "nombre": "Hackathon de Ecodiseño en Electrónica",
+   "organizador": "OREKAN · UPNA · Cátedra de Tecnología Electrónica (con Gobierno de Navarra)",
    "ciudad": "Pamplona",
    "provincia": "Navarra",
    "ccaa": "Navarra",
-   "web": "https://www.unavarra.es/",
+   "web": "https://www.interregeurope.eu/fr/node/47996/news-and-events/news/140-students-joined-1st-electronics-ecodesign-hackathon",
    "tematica": [
     "ecodiseño",
-    "electrónica"
+    "electrónica",
+    "RAEE",
+    "economía circular"
    ],
    "participantes": 140,
    "ediciones": [
@@ -1043,26 +1154,209 @@
      "anio": 2025,
      "formato": "presencial"
     }
-   ]
+   ],
+   "proxima": {
+    "mes_estimado": "2026-12",
+    "confirmada": false
+   },
+   "notas": "1ª edición (\"Ecodesign in Electronics: Creating a Sustainable Future\") dentro del proyecto Interreg WEEEWaste. Más de 140 estudiantes del Máster en Ingeniería Electrónica de la UPNA y FP del CIP ETI. Entrega de premios el 10/12/2025 en el Pinaquy Hall de Pamplona. Sin 2ª edición anunciada; mes estimado por patrón."
   },
   {
    "id": "ecodiseno-canarias",
-   "nombre": "Hackathon Ecodiseño y Economía Circular",
-   "organizador": "Gobierno de Canarias",
-   "ciudad": "Santa Cruz de Tenerife",
+   "nombre": "Hackathon de Ecodiseño y Economía Circular de Canarias",
+   "organizador": "Gobierno de Canarias (Consejería de Transición Ecológica y Energía, DG de Calidad Ambiental)",
+   "ciudad": "Tenerife",
    "provincia": "Santa Cruz de Tenerife",
    "ccaa": "Canarias",
-   "web": "https://www3.gobiernodecanarias.org/",
+   "web": "https://circularcanarias.com/eventos/hackathon-de-ecodiseno-y-economia-circular-de-canarias-2026",
    "tematica": [
-    "economía circular"
+    "ecodiseño",
+    "economía circular",
+    "sostenibilidad"
    ],
+   "duracion_h": 11,
    "ediciones": [
     {
      "anio": 2026,
      "formato": "presencial"
     }
    ],
-   "notas": "También sede en Gran Canaria."
+   "proxima": {
+    "mes_estimado": "2027-09",
+    "confirmada": false
+   },
+   "notas": "Dos jornadas presenciales gratuitas de 9:00 a 20:00: 26/09/2026 en Tenerife y 03/10/2026 en Gran Canaria (la nota oficial no detalla municipio ni sede). Enmarcado en el Plan de Acción de Economía Circular de Canarias 2024-2026; continuidad no anunciada."
+  },
+  {
+   "id": "spaceapps-madrid",
+   "nombre": "NASA Space Apps Madrid",
+   "organizador": "Space Apps Spain (equipo local de Francisco Martínez y Daniel Pérez) · San Blas Digital (Ayuntamiento de Madrid)",
+   "ciudad": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://www.spaceappschallenge.org/2026/local-events/madrid/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "participantes": 154,
+   "ediciones": [
+    {
+     "anio": 2013,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2014,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2015,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2016,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2017,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2018,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2019,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2020,
+     "formato": "online"
+    },
+    {
+     "anio": 2022,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Sede local del NASA Space Apps Challenge. 2026: 13-15 nov (bienvenida en 42 Madrid, hackathon en la Escuela de Competencias San Blas Digital), 154 inscritos y 91 en lista de espera. San Blas Digital desde 2023; 2022 en Fundación Telefónica y La Nave. Sedes anteriores: Madrid International Lab (2013), IE University (2015), Campus Madrid (2016), WeWork (2018-2019). Equipos de hasta 6."
+  },
+  {
+   "id": "spaceapps-malaga",
+   "nombre": "NASA Space Apps Málaga",
+   "organizador": "Space Apps Spain (Space & Events) · 42 Málaga (Fundación Telefónica)",
+   "ciudad": "Málaga",
+   "provincia": "Málaga",
+   "ccaa": "Andalucía",
+   "web": "https://www.spaceappschallenge.org/2026/local-events/malaga/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "participantes": 100,
+   "ediciones": [
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Sede local del NASA Space Apps Challenge en 42 Málaga (Complejo Tabacalera, Polo Digital). 2026: 13-15 nov, 100 inscritos (aforo completo). Primera edición en 2023; no constan páginas de Málaga en años anteriores. Equipos de hasta 6."
+  },
+  {
+   "id": "spaceapps-bilbao",
+   "nombre": "NASA Space Apps Bilbao",
+   "organizador": "Space Apps Spain · 42 Urduliz (Fundación Telefónica)",
+   "ciudad": "Urduliz",
+   "provincia": "Bizkaia",
+   "ccaa": "País Vasco",
+   "web": "https://www.spaceappschallenge.org/2026/local-events/bilbao/",
+   "tematica": [
+    "espacio",
+    "datos abiertos"
+   ],
+   "participantes": 98,
+   "ediciones": [
+    {
+     "anio": 2013,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2014,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2015,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2016,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2019,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2020,
+     "formato": "online"
+    },
+    {
+     "anio": 2023,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2024,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2025,
+     "formato": "presencial"
+    },
+    {
+     "anio": 2026,
+     "formato": "presencial"
+    }
+   ],
+   "proxima": {
+    "mes_estimado": "2027-10",
+    "confirmada": false
+   },
+   "notas": "Sede \"Bilbao\" del NASA Space Apps Challenge, celebrada desde 2023 en 42 Urduliz (Bizkaia); 2025 fue la 3ª edición de esta etapa. 2026: 13-15 nov, 98 inscritos. Antes: Ideateca Bilbao (2013), sede \"Euskadi\" en Basque Open Labs de Basauri (2014-2015), Academia Zilargi en Deusto (2016), Banco Santander Plaza Jado (2019) y online (2020)."
   }
  ]
 }

@@ -37,6 +37,7 @@ Todo está en [`data/hackathones.json`](data/hackathones.json). Cada entrada:
   "ediciones": [
     { "anio": 2015, "formato": "presencial" },
     { "anio": 2020, "formato": "online" },
+    { "anio": 2018 },                       // se celebró, formato desconocido
     { "anio": 2019, "verificada": false }   // sin fuente clara
   ],
   "proxima": { "inicio": "2027-05-07", "fin": "2027-05-09", "confirmada": true }
