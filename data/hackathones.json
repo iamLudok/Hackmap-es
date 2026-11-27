@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20",
+ "actualizado": "2026-11-23",
  "hackathones": [
   {
    "id": "lerobot-bilbao",
@@ -122,6 +122,25 @@
     "confirmada": true
    },
    "notas": "1ª edición. De viernes a domingo, gratuito y abierto a principiantes. Más de 10.000 € en premios. Sede por concretar."
+  },
+  {
+   "id": "hackuc3m",
+   "nombre": "HackUC3M",
+   "organizador": "AISC Madrid (Artificial Intelligence Student Collective, asociación de estudiantes de la UC3M)",
+   "ciudad": "Leganés",
+   "provincia": "Madrid",
+   "ccaa": "Madrid",
+   "web": "https://www.hackuc3m.com/",
+   "tematica": [
+    "retos de empresa"
+   ],
+   "ediciones": [],
+   "proxima": {
+    "inicio": "2027-02-19",
+    "fin": "2027-02-20",
+    "confirmada": true
+   },
+   "notas": "Dos días en la Escuela Politécnica Superior (campus de Leganés), con retos reales de la industria. Los tracks y el premio aún no están publicados. Preinscripción abierta; no confirma plaza."
   },
   {
    "id": "hackudc",
